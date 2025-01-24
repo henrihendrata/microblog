@@ -21,7 +21,7 @@ export const BLOG: Metadata = {
 export const PROJECTS: Metadata = {
   TITLE: "Projects",
   DESCRIPTION:
-    "A collection of my projects with links to repositories and live demos.",
+    "project kecil.",
 };
 
 export const SOCIALS: Socials = [
@@ -35,6 +35,6 @@ export const SOCIALS: Socials = [
   },
   {
     NAME: "LinkedIn",
-    HREF: "https://www.linkedin.com/in/trevortylerlee",
+    HREF: "https://www.linkedin.com/in/henri-hendrata-9ab04627/",
   },
 ];
